@@ -1,0 +1,15 @@
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\bin\restful.dll
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\bin\restful.pdb
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\obj\Debug\restful.dll
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\obj\Debug\restful.pdb
+C:\Users\naveen\Documents\Visual Studio 2010\Projects\restful\restful\obj\Debug\restful.csprojResolveAssemblyReference.cache
+C:\Users\Sriharsha\Desktop\LAB-4-master\Web Services\REST\restful\restful\bin\restful.dll
+C:\Users\Sriharsha\Desktop\LAB-4-master\Web Services\REST\restful\restful\bin\restful.pdb
+C:\Users\Sriharsha\Desktop\LAB-4-master\Web Services\REST\restful\restful\obj\Debug\restful.csprojResolveAssemblyReference.cache
+C:\Users\Sriharsha\Desktop\LAB-4-master\Web Services\REST\restful\restful\obj\Debug\restful.dll
+C:\Users\Sriharsha\Desktop\LAB-4-master\Web Services\REST\restful\restful\obj\Debug\restful.pdb
+C:\Users\Sriharsha\Desktop\rest\rest\bin\restful.dll
+C:\Users\Sriharsha\Desktop\rest\rest\bin\restful.pdb
+C:\Users\Sriharsha\Desktop\rest\rest\obj\Debug\restful.csprojResolveAssemblyReference.cache
+C:\Users\Sriharsha\Desktop\rest\rest\obj\Debug\restful.dll
+C:\Users\Sriharsha\Desktop\rest\rest\obj\Debug\restful.pdb
